@@ -1,1 +1,4 @@
-# code-portal-public
+# Code Portal Plugin
+
+# License
+- [see link](./license.txt)
